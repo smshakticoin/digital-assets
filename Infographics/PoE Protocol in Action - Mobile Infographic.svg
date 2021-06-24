@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="285" height="2122" viewBox="0 0 285 2122">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M26 2017h222v217H26z"/>
+        <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="14" font-weight="400" transform="translate(26 2007)">
+            <tspan x="6.588" y="63">Micro investing is just as easy </tspan> <tspan x="15.478" y="87">with smart contract on the </tspan> <tspan x="45.914" y="111">Shakti blockchain.</tspan>
+        </text>
+        <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" letter-spacing=".684" transform="translate(26 2007)">
+            <tspan x="62.841" y="37">INVEST IT</tspan>
+        </text>
+        <path d="M26 1817h222v217H26z"/>
+        <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="14" font-weight="400" transform="translate(26 1807)">
+            <tspan x="17.571" y="63">Micro lending is as easy as </tspan> <tspan x="7.484" y="87">sending an email with Shakti </tspan> <tspan x="52.788" y="111">Smart Contracts</tspan>
+        </text>
+        <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" letter-spacing=".684" transform="translate(26 1807)">
+            <tspan x="71.364" y="37">LEND IT</tspan>
+        </text>
+        <path d="M20 1635h234v217H20z"/>
+        <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="14" font-weight="400" transform="translate(20 1625)">
+            <tspan x="18.37" y="63">Send coins to anyone in the </tspan> <tspan x="31.754" y="87">Shakti Network directly, </tspan> <tspan x="56.394" y="111">Wallet-to-Wallet.</tspan>
+        </text>
+        <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" letter-spacing=".684" transform="translate(20 1625)">
+            <tspan x="77.058" y="37">SEND IT</tspan>
+        </text>
+        <path d="M26 1429h222v217H26z"/>
+        <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="14" font-weight="400" transform="translate(26 1419)">
+            <tspan x="41.714" y="63">Visit a participating </tspan> <tspan x="15.919" y="87">merchant to buy whatever </tspan> <tspan x="83.518" y="111">you like</tspan>
+        </text>
+        <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" letter-spacing=".684" transform="translate(26 1419)">
+            <tspan x="64.218" y="37">SPEND IT</tspan>
+        </text>
+        <path d="M26 1207h222v217H26z"/>
+        <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="14" font-weight="400" transform="translate(26 1207)">
+            <tspan x="6.224" y="53">Keep the coins in your secure </tspan> <tspan x="6.014" y="77">Shakti Wallet and watch your </tspan> <tspan x="28.659" y="101">balance grow each day </tspan> <tspan x="55.658" y="125">you participate.</tspan>
+        </text>
+        <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="18" font-weight="bold" letter-spacing=".684" transform="translate(26 1207)">
+            <tspan x="77.37" y="27">SAVE IT</tspan>
+        </text>
+        <path stroke="#B49B57" stroke-linecap="square" stroke-width="2" d="M24 33v984.5c75.667 0 113.5 31.5 113.5 94.5v34.5"/>
+        <path fill="#B49B57" d="M137.5 1177l12.5-23h-25z"/>
+        <g transform="translate(0 840)">
+            <path d="M0 0h344.478v158.032H0z"/>
+            <ellipse cx="23.45" cy="23.382" fill="#B49B57" rx="23.45" ry="23.382"/>
+            <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="11.288" font-weight="400" letter-spacing=".705">
+                <tspan x="98.653" y="48.089">The mined coin is deposited </tspan> <tspan x="98.653" y="67.44">into the wallet associated </tspan> <tspan x="98.653" y="86.791">with the child&apos;s parent. It has </tspan> <tspan x="98.653" y="106.142">a $5.00 USD value.</tspan>
+            </text>
+            <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="14.513" font-weight="bold" letter-spacing=".551">
+                <tspan x="98.653" y="27.707">PAYMENT</tspan>
+            </text>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="1.613" d="M25.472 22.98h63.073"/>
+            <path fill="#B49B57" d="M23.855 117.717L13.747 99.173h20.216z"/>
+        </g>
+        <g transform="translate(0 647)">
+            <path d="M0 0h344.478v158.032H0z"/>
+            <ellipse cx="23.45" cy="23.382" fill="#B49B57" rx="23.45" ry="23.382"/>
+            <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="11.288" font-weight="400" letter-spacing=".705">
+                <tspan x="98.653" y="48.089">The daily verification input is </tspan> <tspan x="98.653" y="67.44">processed to determine </tspan> <tspan x="98.653" y="86.791">effort. When deterministic </tspan> <tspan x="98.653" y="106.142">validation is made, a Shakti </tspan> <tspan x="98.653" y="125.492">Coin is mined for the parent </tspan> <tspan x="98.653" y="144.843">and a payment is made to </tspan> <tspan x="98.653" y="164.194">the verifiers Shakti Wallet.</tspan>
+            </text>
+            <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="14.513" font-weight="bold" letter-spacing=".551">
+                <tspan x="98.653" y="27.707">VERIFICATION</tspan>
+            </text>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="1.613" d="M25.472 22.98h63.073"/>
+            <path fill="#B49B57" d="M23.855 117.717L13.747 99.173h20.216z"/>
+        </g>
+        <g transform="translate(0 490)">
+            <path d="M0 0h344.478v158.032H0z"/>
+            <ellipse cx="23.45" cy="23.382" fill="#B49B57" rx="23.45" ry="23.382"/>
+            <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="11.288" font-weight="400" letter-spacing=".705">
+                <tspan x="98.653" y="48.089">Local miners are given first </tspan> <tspan x="98.653" y="67.44">priority to run the </tspan> <tspan x="98.653" y="86.791">assimilated data through the </tspan> <tspan x="98.653" y="106.142">algorithm and verify effort.</tspan>
+            </text>
+            <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="14.513" font-weight="bold" letter-spacing=".551">
+                <tspan x="98.653" y="27.707">PROXIMITY CALL</tspan>
+            </text>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="1.613" d="M25.472 22.98h63.073"/>
+            <path fill="#B49B57" d="M23.855 117.717L13.747 99.173h20.216z"/>
+        </g>
+        <g transform="translate(0 325)">
+            <path d="M0 0h344.478v158.032H0z"/>
+            <ellipse cx="23.45" cy="23.382" fill="#B49B57" rx="23.45" ry="23.382"/>
+            <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="11.288" font-weight="400" letter-spacing=".705">
+                <tspan x="98.653" y="48.089">Data from multiple input </tspan> <tspan x="98.653" y="67.44">points is collected from a </tspan> <tspan x="98.653" y="86.791">number of different spotters. </tspan> <tspan x="98.653" y="106.142">Each point of verification is </tspan> <tspan x="98.653" y="125.492">rewarded with a </tspan> <tspan x="98.653" y="144.843">micropayment.</tspan>
+            </text>
+            <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="14.513" font-weight="bold" letter-spacing=".551">
+                <tspan x="98.653" y="27.707">PROOF</tspan>
+            </text>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="1.613" d="M25.472 22.98h63.073"/>
+            <path fill="#B49B57" d="M23.855 117.717L13.747 99.173h20.216z"/>
+        </g>
+        <g transform="translate(0 165)">
+            <path d="M0 0h344.478v158.032H0z"/>
+            <ellipse cx="23.45" cy="23.382" fill="#B49B57" rx="23.45" ry="23.382"/>
+            <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="11.288" font-weight="400" letter-spacing=".705">
+                <tspan x="98.653" y="48.089">Child attends school</tspan>
+            </text>
+            <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="14.513" font-weight="bold" letter-spacing=".551">
+                <tspan x="98.653" y="27.707">EFFORT</tspan>
+            </text>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="1.613" d="M25.472 22.98h63.073"/>
+            <path fill="#B49B57" d="M23.855 117.717L13.747 99.173h20.216z"/>
+        </g>
+        <g>
+            <path d="M0 0h344.478v158.032H0z"/>
+            <ellipse cx="23.45" cy="23.382" fill="#B49B57" rx="23.45" ry="23.382"/>
+            <text fill="#818181" font-family="Montserrat-Medium, Montserrat" font-size="11.288" font-weight="400" letter-spacing=".705">
+                <tspan x="98.653" y="48.089">Parents enroll their child in </tspan> <tspan x="98.653" y="67.44">the program and receive a </tspan> <tspan x="98.653" y="86.791">Shakti Wallet</tspan>
+            </text>
+            <text fill="#0A000D" font-family="Montserrat-Bold, Montserrat" font-size="14.513" font-weight="bold" letter-spacing=".551">
+                <tspan x="98.653" y="27.707">CHILD ENROLLMENT</tspan>
+            </text>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="1.613" d="M25.472 22.98h63.073"/>
+            <path fill="#B49B57" d="M23.855 117.717L13.747 99.173h20.216z"/>
+        </g>
+        <g>
+            <path fill="#B49B57" d="M137.5 1600l12.5-23h-25z"/>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="2" d="M137.5 1559.5v28"/>
+        </g>
+        <g>
+            <path fill="#B49B57" d="M138.5 1807l12.5-23h-25z"/>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="2" d="M138.5 1766.5v28"/>
+        </g>
+        <g>
+            <path fill="#B49B57" d="M138.5 1991l12.5-23h-25z"/>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="2" d="M138.5 1950.5v28"/>
+        </g>
+        <g>
+            <path fill="#B49B57" d="M136.5 1408l12.5-23h-25z"/>
+            <path stroke="#B49B57" stroke-linecap="square" stroke-width="2" d="M136.5 1367.5v28"/>
+        </g>
+    </g>
+</svg>
